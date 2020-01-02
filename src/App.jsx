@@ -1,14 +1,9 @@
 import React, { Component } from "react";
+import Card from "./components/Card";
 
 class App extends Component {
   render() {
-    return (
-      <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-          Hello
-        </a>
-      </nav>
-    );
+    return <Card />;
   }
 }
 
