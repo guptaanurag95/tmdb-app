@@ -10,7 +10,7 @@
     "react-scripts": "0.9.5"
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "npm-watch": "^0.6.0"
   },
   "scripts": {
